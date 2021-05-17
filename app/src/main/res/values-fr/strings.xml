@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">PrimerActividad</string>
+    <string name="suma">Ajouter</string>
+    <string name="resta">Soustraire</string>
+    <string name="zoommas">Agrandir(+)</string>
+    <string name="zoommenos">Réduire(-)</string>
+
+    <string name="ingresemonto">Entrez un montant en pesos</string>
+
+    <string name="dolar">Dollar(USA)</string>
+    <string name="euro">Euro</string>
+    <string name="real">Real(Brésil)</string>
+    <string name="resultado">Résultat</string>
+
+    <string name="conversor">Convertisseur de Devises</string>
+    <string name="seleccionemoneda">Sélectionnez une Devise</string>
+    <string name="btnConvertir">Changer en</string>
+    <string name="btnReiniciar">Redémarrer</string>
+</resources>
